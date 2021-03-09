@@ -1,7 +1,5 @@
 # vue-firebase-auth
-Learn how to integrate Firebase Authentication in Vue.js 2+ application. We will also learn to register a user, login a user and send password reset mail and logout from firebase app using Vue.js application.
-
-[Vue.js 2 + Firebase Authentication Tutorial Example](https://www.positronx.io/vue-js-firebase-authentication-tutorial-example/)
+Proyecto final ICC713 Eccommerce Vue
 
 
 ## Project setup
